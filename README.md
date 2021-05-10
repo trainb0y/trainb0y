@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Huh I guess I can add a readme... Okay then!
 <!--
 **trainb0y1/trainb0y1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
