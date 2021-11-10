@@ -8,6 +8,8 @@ Recently I've tried to get into Java and using Spigot for Minecraft server plugi
 I also occasionally work in C# and Unity.
 
 (I may use the word "simple" too much in naming things...)
+
+trainb0y#7688 on Discord
 <!--
 **trainb0y1/trainb0y1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
