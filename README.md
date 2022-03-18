@@ -7,9 +7,8 @@ I don't know everything, and don't always use the best practices, but hey, somet
 Recently I've tried to get into Java and using Spigot for Minecraft server plugins.
 I also occasionally work in C# and Unity.
 
-(I may use the word "simple" too much in naming things...)
+~~I use Arch btw~~
 
 trainb0y#7688 on Discord
-<!--
-**trainb0y1/trainb0y1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trainb0y1&?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
