@@ -4,8 +4,15 @@ Well, I should probably put up a little about me.
 I'm a self taught Python developer. I've been working with Python since late 2018.
 I don't know everything, and don't always use the best practices, but hey, sometimes the code works, what more can I ask for?
 
-Recently I've tried to get into Java and using Spigot for Minecraft server plugins.
-I also occasionally work in C# and Unity.
+### Languages - In order of my confidence level:  
+Python (General purpose)   
+Kotlin (libGDX, PaperMC)  
+Java (libGDX, PaperMC)  
+C# (Unity)  
+bash/zsh scripts  
+JavaScript  
+LOLCODE  
+English  
 
 ~~I use Arch btw~~
 
