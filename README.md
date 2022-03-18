@@ -14,6 +14,8 @@ JavaScript
 LOLCODE  
 English  
 
+Currently trying to learn Rust
+
 ~~I use Arch btw~~
 
 trainb0y#7688 on Discord
