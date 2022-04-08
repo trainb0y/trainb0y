@@ -2,7 +2,10 @@
 Well, I should probably put up a little about me.
 
 I'm a self taught Python developer. I've been working with Python since late 2018.
-I don't know everything, and don't always use the best practices, but hey, sometimes the code works, what more can I ask for?
+I don't know everything, and don't always use the best practices, but hey, sometimes the code works, what more can I ask for?  
+
+Lead dev for the [HydrazineMC](https://github.com/HydrazineMC) project, which aims to turn Minecraft into a sci-fi space game.
+
 
 ### Languages - In order of my confidence level:  
 Python (General purpose)   
