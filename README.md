@@ -2,14 +2,14 @@
 Well, I should probably put up a little about me.
 
 I'm a self taught Python developer. I've been working with Python since late 2018.
-I don't know everything, and don't always use the best practices, but hey, sometimes the code works, what more can I ask for?  
-
-Lead dev for the [HydrazineMC](https://github.com/HydrazineMC) project, which aims to turn Minecraft into a sci-fi space game.
+I definitely don't know everything, and don't always use the best practices, but hey, sometimes the code works, and what more can I ask for?  
+  
+Working on too many projects, including a Minecraft server, a bunch of Minecraft client mods, a MUD, and a 2D space themed videogame.
 
 
 ### Languages - In order of my confidence level:  
+Kotlin (libGDX, PaperMC, Fabric)  
 Python (General purpose)   
-Kotlin (libGDX, PaperMC)  
 Java (libGDX, PaperMC)  
 C# (Unity)  
 bash/zsh scripts  
@@ -17,7 +17,7 @@ JavaScript
 LOLCODE  
 English  
 
-Currently trying to learn Rust
+Currently trying to learn Rust, but the borrow checker is pain.
 
 ~~I use Arch btw~~
 
