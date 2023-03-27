@@ -8,7 +8,7 @@ Working on too many projects, including a Minecraft server, a bunch of Minecraft
 
 
 ### Languages - In order of my confidence level:  
-Kotlin (libGDX, PaperMC, Fabric/Quilt) 
+Kotlin (libGDX, PaperMC, Fabric/Quilt)  
 Python (General purpose)   
 Java (libGDX, PaperMC)  
 C# (Unity)  
