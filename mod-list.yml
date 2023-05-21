@@ -5,18 +5,23 @@
         Maintained Fabric fork of OkZoomer, with some extra features.
         
         Modrinth:  https://modrinth.com/mod/fabrizoom/
+        GitHub: https://github.com/trainb0y/FabriZoom
+        CurseForge: https://www.curseforge.com/minecraft/mc-mods/fabrizoom
       color: 0x225522
     - title: FabriHUD
       description: |
         Random customizable HUD mod for fabric.
-        Modrinth:  https://modrinth.com/mod/fabrihut/
         
-        (Somewhat Inactive)
+        Modrinth:  https://modrinth.com/mod/fabrihud/
+        GitHub: https://github.com/trainb0y/FabriZoom
+        CurseForge: https://www.curseforge.com/minecraft/mc-mods/fabrihud
+        
+        **(Somewhat Inactive)**
       color: 0x552222
     - title: Unnamed Biome Changer Mod
       description: |
         A client-side mod that allows configuration of biome colors! 
         Created because I thought the grass in the cherry groves should be pink.
         
-        (Not released yet:tm:)
+        **(Not released yet:tm:)**
       color: 0x222255
