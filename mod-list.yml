@@ -2,7 +2,7 @@
   embeds:
     - title: FabriZoom
       description: |
-         **Platform**: Fabric Client
+        **Platform**: Fabric Client
         Maintained Fabric fork of OkZoomer, with some extra features.
         
         Modrinth:  https://modrinth.com/mod/fabrizoom/
