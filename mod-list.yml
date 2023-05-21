@@ -28,7 +28,7 @@
         
         **(Not released yet:tm:)**
       color: 0x222255
-  - title: YetAnotherMOTDPlugin
+    - title: YetAnotherMOTDPlugin
       description: |
         **Platform**: Velocity Proxy
         Yet another randomized server MOTD plugin, with MiniMessage formatting.
