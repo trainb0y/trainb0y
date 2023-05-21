@@ -1,0 +1,37 @@
+- type: embed
+  embeds:
+    - title: Welcome!
+      description: Welcome to trainb0y's random stuff. You can follow updates and get support for any of my projects, including my Minecraft mods and Discord bots.
+      color: 0x00BB00
+    - title: Rules
+      description: The server rules are below. Please read them over.
+
+- type: rules
+  rules:
+    No NSFW: >-
+      Don't post or discuss NSFW content here. We want this to be a safe space. This includes extreme violence, sexual content, or anything else considered "adult". If you aren't sure if something falls under this category, it's probably best to keep it to yourself.
+    Be Respectful: >-
+      Slurs, racism, homophobia, transphobia, etc. will not be tolerated on this server. This may result in an instant ban.
+    Keep Channels on Topic: >-
+      Please try to keep channels on-topic. If a discussion goes off-topic, consider moving to an appropriate channel.
+    No Spamming: >-
+      Excessive spam of text, images, etc. should stay in a meme or shitpost channel. This includes memes in general chats, as memes mainly just clog them.
+    No Harassment: >-
+      This includes repeatedly insulting players, spam killing, extreme name calling, etc. Repeated staff disrespect also falls into this category.
+    No Doxxing: >-
+      Don’t release personal information about other players without their consent. This is considered a serious offense and will be punished severely.
+    Don't Advertise: >-
+      Please don't advertise other projects here. Discussing them is okay, but please avoid outright advertising.
+
+- type: embed
+  embeds:
+    - description: These rules may be amended or changed at any time.
+    - description: TLDR - Use common sense, and you'll be fine!
+
+- type: links
+  title: Useful Links
+
+  links:
+    Discord Invite: https://discord.gg/PPCvtMTXvP
+    FabriZoom Modrinth: https://modrinth.com/mod/fabrizoom/
+    XKCDBot Invite: https://discord.com/api/oauth2/authorize?client_id=1004497461009727538&permissions=2147502080&scope=bot
