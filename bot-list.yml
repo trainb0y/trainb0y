@@ -1,0 +1,17 @@
+- type: embed
+  embeds:
+    - title: XKCDBot
+      description: |
+        A bot for looking up, searching through, and browsing XKCD webcomics.
+        (https://xkcd.com)
+       
+        GitHub: https://github.com/trainb0y/XKCDBot
+        Invite: https://discord.com/api/oauth2/authorize?client_id=1004497461009727538&permissions=2147502080&scope=bot
+      color: 0x222255
+    - title: Unnamed Bot
+      description: |
+        A bot with various QoL features like channel conversation linking, limited moderation features, and more!
+        
+        **(Coming Soon:tm:)**
+      color: 0x552222
+  
