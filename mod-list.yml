@@ -4,7 +4,7 @@
       description: |
         Maintained Fabric fork of OkZoomer, with some extra features.
         
-         **Platform**: Fabric Client
+        **Platform**: Fabric Client
         Modrinth:  https://modrinth.com/mod/fabrizoom/
         GitHub: https://github.com/trainb0y/FabriZoom
         CurseForge: https://www.curseforge.com/minecraft/mc-mods/fabrizoom
@@ -25,7 +25,7 @@
         A client-side mod that allows configuration of biome colors! 
         Created because I thought the grass in the cherry groves should be pink.
         
-         **Platform**: Fabric Client
+        **Platform**: Fabric Client
         **(Not released yet:tm:)**
       color: 0x222255
     - title: YetAnotherMOTDPlugin
