@@ -2,18 +2,18 @@
   embeds:
     - title: FabriZoom
       description: |
-        **Platform**: Fabric Client
         Maintained Fabric fork of OkZoomer, with some extra features.
         
+         **Platform**: Fabric Client
         Modrinth:  https://modrinth.com/mod/fabrizoom/
         GitHub: https://github.com/trainb0y/FabriZoom
         CurseForge: https://www.curseforge.com/minecraft/mc-mods/fabrizoom
       color: 0x225522
     - title: FabriHUD
       description: |
-        **Platform**: Fabric Client
         Random customizable HUD mod for fabric.
         
+        **Platform**: Fabric Client
         Modrinth:  https://modrinth.com/mod/fabrihud/
         GitHub: https://github.com/trainb0y/FabriHUD
         CurseForge: https://www.curseforge.com/minecraft/mc-mods/fabrihud
@@ -22,25 +22,25 @@
       color: 0x552222
     - title: Unnamed Biome Changer Mod
       description: |
-        **Platform**: Fabric Client
         A client-side mod that allows configuration of biome colors! 
         Created because I thought the grass in the cherry groves should be pink.
         
+         **Platform**: Fabric Client
         **(Not released yet:tm:)**
       color: 0x222255
     - title: YetAnotherMOTDPlugin
       description: |
-        **Platform**: Velocity Proxy
         Yet another randomized server MOTD plugin, with MiniMessage formatting.
         
+        **Platform**: Velocity Proxy
         GitHub: https://github.com/Stellarica/YetAnotherMOTDPlugin
         **(Not published yet)**
       color: 0x225555
     - title: PackServe
       description: |
-        **Platform**: Velocity Proxy
         Customizable Velocity plugin for serving resource packs from GitHub.
         
+        **Platform**: Velocity Proxy
         GitHub: https://github.com/Stellarica/PackServe
         **(Not published yet)**
       color: 0x555522
