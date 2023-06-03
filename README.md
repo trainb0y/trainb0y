@@ -7,18 +7,19 @@ I definitely don't know everything, and don't always use the best practices, but
 Working on too many projects, including a Minecraft server, a bunch of Minecraft client mods, a MUD, and a 2D space themed videogame.
 
 
-### Languages - In order of my confidence level:  
+## Languages 
+### Proficient(-ish)
 Kotlin (libGDX, PaperMC, Fabric/Quilt)  
 Python (General purpose)   
 Java (libGDX, PaperMC)  
 C# (Unity)  
+### Learning
 Rust (Trying to learn Bevy)
-bash/zsh scripts  
+shell scripts  
 JavaScript  
+### Terrible
 LOLCODE  
 English  
-
-Currently trying to learn Rust, but the borrow checker and lifetimes are pain.
 
 ~~I use Arch btw~~
 
