@@ -15,7 +15,8 @@ Java (libGDX, PaperMC)
 C# (Unity)  
 ### Learning
 Rust (Trying to learn Bevy)  
-shell scripts  
+GDScript (Godot)
+bash/zsh scripts  
 JavaScript  
 ### Terrible
 LOLCODE  
@@ -23,7 +24,7 @@ English
 
 ~~I use Arch btw~~
 
-trainb0y#7688 on Discord 
+trainb0y ~~#7688~~ on Discord 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trainb0y&?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trainb0y)](https://github.com/anuraghazra/github-readme-stats)
