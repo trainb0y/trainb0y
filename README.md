@@ -14,7 +14,7 @@ Python (General purpose)
 Java (libGDX, PaperMC)  
 C# (Unity)  
 ### Learning
-Rust (Trying to learn Bevy)
+Rust (Trying to learn Bevy)  
 shell scripts  
 JavaScript  
 ### Terrible
