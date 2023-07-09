@@ -15,7 +15,7 @@ Java (libGDX, PaperMC)
 C# (Unity)  
 ### Learning
 Rust (Trying to learn Bevy)  
-GDScript (Godot)
+GDScript (Godot)  
 bash/zsh scripts  
 JavaScript  
 ### Terrible
