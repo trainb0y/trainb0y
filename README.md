@@ -20,7 +20,7 @@ bash/zsh scripts
 JavaScript  
 ### Terrible
 LOLCODE  
-English  
+English (words are hard:tm:)
 
 ~~I use Arch btw~~
 
