@@ -12,14 +12,13 @@ Working on too many projects, including a Minecraft server, a bunch of Minecraft
 Kotlin (libGDX, PaperMC, Fabric/Quilt)  
 Python (General purpose)   
 Java (libGDX, PaperMC)  
-C# (Unity)  
+C# (Unity, Godot)  
 ### Learning
 Rust (Trying to learn Bevy)  
 GDScript (Godot)  
 bash/zsh scripts  
-JavaScript  
+TypeScript  
 ### Terrible
-LOLCODE  
 English (words are hard:tm:)
 
 ~~I use Arch btw~~
