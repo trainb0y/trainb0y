@@ -11,7 +11,7 @@ Working on entirely too many projects, including a bunch of Minecraft client mod
 ## Languages 
 ### Semi-Proficient(-ish)
 Kotlin (libGDX, PaperMC, Fabric/Quilt)  
-Python
+Python  
 Java (libGDX)  
 C# (Unity, Godot)  
 ### Learning
