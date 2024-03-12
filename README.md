@@ -14,11 +14,10 @@ Kotlin (libGDX, PaperMC, Fabric/Quilt)
 Python  
 Java (libGDX)  
 C# (Unity, Godot)  
-### Learning
-Rust (Trying to learn Bevy)  
 GDScript (Godot)  
-bash/zsh scripting  
-TypeScript  
+### Learning
+Rust (Bevy)  
+C++
 ### Terrible
 English (words are hard:tm:)
 
